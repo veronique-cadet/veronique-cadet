@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a WebRTC based project**
 
-- 🌱 I’m currently learning **Next.Js, Svelte and Flutter**
+- 🌱 I’m currently learning **Next.Js and Flutter**
 
 - 💬 Ask me about **React and Ruby on Rails**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veronique Cadet</h1>
 <h3 align="center">A passionate and motivated Software Developer from New York</h3>
-<img align="right" width="400" src="https://i.gifer.com/origin/15/15fd7765f50e95e2d2fc20fb46ade40f_w200.gif" >
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRjMWE4ZTM1ZjAwNGU3YzFiMjQ0NTNmMzdiNTJiNWVlNjcxMTMwNiZjdD1n/sR4hkHivAvZnXWTtCv/giphy.gif" >
 
 
 - 🌱 I’m currently learning **React Native**

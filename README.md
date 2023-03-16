@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React and Ruby on Rails**
 
-- 📫 How to reach me **randujar711@gmail.com**
+- 📫 How to reach me **cadetvero@gmail.com**
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left">

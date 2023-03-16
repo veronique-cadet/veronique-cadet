@@ -11,7 +11,7 @@
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left">
-  Martial Arts Enthusiast! Kind of...
+  I'm a singer!
 </p>
 
 <h3 align="left">Front End Stack:</h3>

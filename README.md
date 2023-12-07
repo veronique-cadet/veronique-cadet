@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47w6z7ffpjo7v0wjhklamwwjqd2qti2315vtwfka7p&rid=giphy.gif&ct=g" >
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React and Ruby on Rails**
 
